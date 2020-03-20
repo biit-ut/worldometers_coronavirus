@@ -1,0 +1,7 @@
+timestamp	datetime	country	TotalCases	TotalDeaths	TotalRecovered	TotalActive	TotalSerious
+20200129195657	2020-01-29 19:56:57	South Korea	4	0			
+20200130193726	2020-01-30 19:37:26	South Korea	6	0			
+20200131214927	2020-01-31 21:49:27	South Korea	11	0			
+20200201155449	2020-02-01 15:54:49	South Korea	12	0			
+20200202162745	2020-02-02 16:27:45	South Korea	15	0			
+20200203164423	2020-02-03 16:44:23	South Korea	15	0	0		0

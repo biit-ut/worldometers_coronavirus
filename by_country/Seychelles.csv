@@ -1,0 +1,7 @@
+timestamp	datetime	country	TotalCases	TotalDeaths	TotalRecovered	TotalActive	TotalSerious
+20200314235906	2020-03-14 23:59:06	Seychelles	2	0	0	2	0
+20200315231920	2020-03-15 23:19:20	Seychelles	3	0	0	3	0
+20200316232604	2020-03-16 23:26:04	Seychelles	3	0	0	3	0
+20200317234753	2020-03-17 23:47:53	Seychelles	4	0	0	4	0
+20200318234401	2020-03-18 23:44:01	Seychelles	4	0	0	4	0
+20200319131523	2020-03-19 13:15:23	Seychelles	6	0	0	6	0

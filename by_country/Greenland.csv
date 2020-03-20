@@ -1,0 +1,5 @@
+timestamp	datetime	country	TotalCases	TotalDeaths	TotalRecovered	TotalActive	TotalSerious
+20200316232604	2020-03-16 23:26:04	Greenland	1	0	0	1	0
+20200317234753	2020-03-17 23:47:53	Greenland	1	0	0	1	0
+20200318234401	2020-03-18 23:44:01	Greenland	1	0	0	1	0
+20200319131523	2020-03-19 13:15:23	Greenland	2	0	0	2	0
