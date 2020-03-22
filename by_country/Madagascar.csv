@@ -1,0 +1,3 @@
+timestamp	datetime	country	TotalCases	TotalDeaths	TotalRecovered	TotalActive	TotalSerious
+20200321120003	2020-03-21 12:00:03	Madagascar	3	0	0	3	0
+20200322120004	2020-03-22 12:00:04	Madagascar	3	0	0	3	0
