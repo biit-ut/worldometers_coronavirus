@@ -14,3 +14,5 @@ timestamp	datetime	country	TotalCases	TotalDeaths	TotalRecovered	TotalActive	Tot
 20200320120009	2020-03-20 12:00:09	French Guiana	15	0	0	15	0
 20200321120003	2020-03-21 12:00:03	French Guiana	15	0	0	15	0
 20200322120004	2020-03-22 12:00:04	French Guiana	18	0	0	18	0
+20200323120003	2020-03-23 12:00:03	French Guiana	18	0	0	18	0
+20200324120004	2020-03-24 12:00:04	French Guiana	20	0	6	14	0

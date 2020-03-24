@@ -15,3 +15,5 @@ timestamp	datetime	country	TotalCases	TotalDeaths	TotalRecovered	TotalActive	Tot
 20200320120009	2020-03-20 12:00:09	Faeroe Islands	72	0	1	71	0
 20200321120003	2020-03-21 12:00:03	Faeroe Islands	80	0	3	77	0
 20200322120004	2020-03-22 12:00:04	Faeroe Islands	92	0	3	89	0
+20200323120003	2020-03-23 12:00:03	Faeroe Islands	115	0	3	112	0
+20200324120004	2020-03-24 12:00:04	Faeroe Islands	118	0	23	95	0

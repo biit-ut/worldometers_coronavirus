@@ -1,6 +1,6 @@
 This repository contains data scraped from https://www.worldometers.info/coronavirus/ (via http://web.archive.org/web/*/https://www.worldometers.info/coronavirus/ )
 
-Data is in tab-separated format. Currently it covers 2020-01-29 to 2020-03-22.
+Data is in tab-separated format. Currently it covers 2020-01-29 to 2020-03-24.
 Data after 2020-03-19 is straight from  https://www.worldometers.info/coronavirus/ .
 
 `by_country` directory contains the data in files by country/territory/ship as reported on worldometers with minimal cleaning and unification applied.
