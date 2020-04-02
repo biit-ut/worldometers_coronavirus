@@ -1,0 +1,3 @@
+timestamp	datetime	country	TotalCases	TotalDeaths	TotalRecovered	TotalActive	TotalSerious
+20200401120003	2020-04-01 12:00:03	Sierra Leone	1	0	0	1	0
+20200402120004	2020-04-02 12:00:04	Sierra Leone	2	0	0	2	0

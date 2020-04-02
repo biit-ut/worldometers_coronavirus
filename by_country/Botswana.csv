@@ -1,0 +1,4 @@
+timestamp	datetime	country	TotalCases	TotalDeaths	TotalRecovered	TotalActive	TotalSerious
+20200331120003	2020-03-31 12:00:03	Botswana	3	0	0	3	0
+20200401120003	2020-04-01 12:00:03	Botswana	4	1	0	3	0
+20200402120004	2020-04-02 12:00:04	Botswana	4	1	0	3	0

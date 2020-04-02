@@ -1,2 +1,5 @@
 timestamp	datetime	country	TotalCases	TotalDeaths	TotalRecovered	TotalActive	TotalSerious
 20200330165358	2020-03-30 16:53:58	MS Zaandam	2	0	0	2	0
+20200331120003	2020-03-31 12:00:03	MS Zaandam	2	0	0	2	0
+20200401120003	2020-04-01 12:00:03	MS Zaandam	2	0	0	2	0
+20200402120004	2020-04-02 12:00:04	MS Zaandam	9	2	0	7	0

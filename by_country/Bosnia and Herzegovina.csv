@@ -24,3 +24,6 @@ timestamp	datetime	country	TotalCases	TotalDeaths	TotalRecovered	TotalActive	Tot
 20200327120003	2020-03-27 12:00:03	Bosnia and Herzegovina	191	3	2	186	1
 20200328000003	2020-03-28 00:00:03	Bosnia and Herzegovina	191	3	2	186	1
 20200330165358	2020-03-30 16:53:58	Bosnia and Herzegovina	323	6	8	309	1
+20200331120003	2020-03-31 12:00:03	Bosnia and Herzegovina	368	10	17	341	1
+20200401120003	2020-04-01 12:00:03	Bosnia and Herzegovina	420	13	17	390	1
+20200402120004	2020-04-02 12:00:04	Bosnia and Herzegovina	459	13	19	427	1
