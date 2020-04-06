@@ -1,0 +1,4 @@
+timestamp	datetime	country	TotalCases	TotalDeaths	TotalRecovered	TotalActive	TotalSerious
+20200404120004	2020-04-04 12:00:04	Falkland Islands	1	0	0	1	0
+20200405120003	2020-04-05 12:00:03	Falkland Islands	1	0	0	1	0
+20200406120003	2020-04-06 12:00:03	Falkland Islands	2	0	0	2	0

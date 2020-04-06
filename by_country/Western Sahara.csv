@@ -1,0 +1,3 @@
+timestamp	datetime	country	TotalCases	TotalDeaths	TotalRecovered	TotalActive	TotalSerious
+20200405120003	2020-04-05 12:00:03	Western Sahara	4	0	0	4	0
+20200406120003	2020-04-06 12:00:03	Western Sahara	4	0	0	4	0
